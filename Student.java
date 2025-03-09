@@ -35,7 +35,7 @@ public class Student {
         this.address = userAddress;
     }
 
-    // The setters for this Student Clsdd Shell
+    // The setters for this Student Class Shell
     void setName(String userName){
         this.Studentname = userName;
     }
