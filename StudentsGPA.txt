@@ -1,2 +1,2 @@
-StudentsGrades.Student@6f496d9f
-StudentsGrades.Student@723279cf
+Ashl, 555 n, 4.0
+kat, 111 m, 4.0
