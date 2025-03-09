@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "StudentsGrades",
+			"path": "B:/Module8/StudentsGrades"
+		}
+	],
+	"settings": {
+		"java.project.sourcePaths": [
+			"src"
+		],
+		"java.project.outputPath": "bin",
+		"java.project.referencedLibraries": [
+			"lib/**/*.jar"
+		]
+	}
+}
