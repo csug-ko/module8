@@ -20,8 +20,7 @@ import java.util.SortedSet;
 import java.util.TreeSet;
 import java.io.IOException;
 
-public class Students extends Student 
-{
+public class Students extends Student {
 
     LinkedList<Student> studentSheet = new LinkedList<Student>();   // unsorted 
     LinkedList<Student> ASORTstudentSheet = new LinkedList<Student>();  // sorted
